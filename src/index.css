@@ -1,0 +1,7 @@
+@import-normalize; /* bring in normalize.css styles */
+
+@import 'react-datepicker/dist/react-datepicker.css';
+
+@import './styles/fonts.css';
+@import './styles/vars.css';
+@import './styles/common.css';
